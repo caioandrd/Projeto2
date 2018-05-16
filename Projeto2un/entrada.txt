@@ -1,0 +1,4 @@
+dim 60 20
+brush $
+circle 10 10 5 0
+
